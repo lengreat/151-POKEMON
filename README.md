@@ -21,16 +21,11 @@ Choose an option on combobox then press button "Start", thus commences the secue
 <h1 id="demo">Demo</h1>
 <p align="center"> <div align="center">
   
-  <br>** READING MODE **
-  
-  <img  align="center" src="https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif" >
-  <hr width="60%">
   <br>
-  <br>** WRITING MODE **<br><br>
+ <p align="center">
+  <img width="20%" src="https://user-images.githubusercontent.com/99779642/203901416-0f1d5c59-a254-4508-bb05-5e194823b095.gif" "> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img width="20%" src="https://user-images.githubusercontent.com/99779642/203901575-e73111b8-c8cb-49ce-9719-87bcc08ab599.gif" style="max-width:100%;width:auto;height:auto;">
+</p>
   
-  <img align="center" src="https://user-images.githubusercontent.com/99779642/203712975-dbcada05-3b61-4508-a1df-f2801d998b38.gif" >
-  <hr width="60%">
-  <br>
   </div>
 
 </p>
@@ -65,3 +60,5 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="80" height="80"/> </a>
+![gifPokedeks1](https://user-images.githubusercontent.com/99779642/203901416-0f1d5c59-a254-4508-bb05-5e194823b095.gif)
+![gifPokedeks2](https://user-images.githubusercontent.com/99779642/203901575-e73111b8-c8cb-49ce-9719-87bcc08ab599.gif)
