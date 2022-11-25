@@ -64,3 +64,4 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 ![gifPokedeks2](https://user-images.githubusercontent.com/99779642/203901575-e73111b8-c8cb-49ce-9719-87bcc08ab599.gif)
 ![gif-1](https://user-images.githubusercontent.com/99779642/203915814-d73b42be-b7c8-4111-9d1c-b78fd228141d.gif)
 ![gif-1-1](https://user-images.githubusercontent.com/99779642/203915923-b9eeb093-0d23-4992-aed5-5d33da7bcc1a.gif)
+![gif-2](https://user-images.githubusercontent.com/99779642/203918789-c62033e1-0049-4387-ada7-a86aa53d8928.gif)
