@@ -23,7 +23,7 @@ Choose an option on combobox then press button "Start", thus commences the secue
   
   <br>
  <p align="center">
-  <img width="20%" src="https://user-images.githubusercontent.com/99779642/203901416-0f1d5c59-a254-4508-bb05-5e194823b095.gif" "> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img width="20%" src="https://user-images.githubusercontent.com/99779642/203901575-e73111b8-c8cb-49ce-9719-87bcc08ab599.gif" style="max-width:100%;width:auto;height:auto;">
+  <img width="23%" src="https://user-images.githubusercontent.com/99779642/204071638-ec0a389c-2f79-4fc2-9b33-c9b8c8d9509f.gif"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img width="23.1%" src="https://user-images.githubusercontent.com/99779642/204071650-1d05d5a4-60b4-46a7-a304-d597c4365ccd.gif" style="max-width:100%;width:auto;height:auto;">
 </p>
   
   </div>
@@ -60,8 +60,4 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="80" height="80"/> </a>
-![gifPokedeks1](https://user-images.githubusercontent.com/99779642/203901416-0f1d5c59-a254-4508-bb05-5e194823b095.gif)
-![gifPokedeks2](https://user-images.githubusercontent.com/99779642/203901575-e73111b8-c8cb-49ce-9719-87bcc08ab599.gif)
-![gif-1](https://user-images.githubusercontent.com/99779642/203915814-d73b42be-b7c8-4111-9d1c-b78fd228141d.gif)
-![gif-1-1](https://user-images.githubusercontent.com/99779642/203915923-b9eeb093-0d23-4992-aed5-5d33da7bcc1a.gif)
-![gif-2](https://user-images.githubusercontent.com/99779642/203918789-c62033e1-0049-4387-ada7-a86aa53d8928.gif)
+
