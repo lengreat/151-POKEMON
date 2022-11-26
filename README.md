@@ -1,6 +1,6 @@
 <h1 id="title" align="center">151-POKEMON</h1>
 
-<h3 align="center"> :iphone: Movil app that shows a pokemon list with data :iphone:</h3>
+<h3 align="center"> :iphone: Android app that shows a pokemon list with data :iphone:</h3>
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-java.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-crayons.svg"></a>
@@ -59,5 +59,4 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="80" height="80"/> </a>
-
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a>
