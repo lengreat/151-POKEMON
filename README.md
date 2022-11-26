@@ -2,7 +2,7 @@
 
 <h3 align="center"> :iphone: Android app that shows a pokemon list with data :iphone:</h3>
 <p align="center">
-  <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-java.svg"></a>
+  <a href="#title"><img src="https://forthebadge.com/images/badges/fixed-bugs.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
 </p>
 
