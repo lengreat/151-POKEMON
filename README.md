@@ -1,6 +1,6 @@
 <h1 id="title" align="center">151-POKEMON</h1>
 
-<h3 align="center"> :iphone: Android app that shows a pokemon list with data :iphone:</h3>
+<h3 align="center"> :iphone: Android app that shows a pokemon list from pokeAPI :iphone:</h3>
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/fixed-bugs.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
