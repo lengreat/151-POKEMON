@@ -14,9 +14,7 @@
 </p>
 
 <h1 id="introduction">Introduction</h1><p align="justify">
-This program helps to learn languages, can be english or anything else. The system to use is the pictures memorization.
-It has 2 modes, writing and reading mode, reading by default. The program starts with several pictures randomly one by one showed by means of the key "enter". 
-Choose an option on combobox then press button "Start", thus commences the secuency but you have to press "enter" again and again until to end it.</p>
+This application allows to visualize information of the 151 pokemons of kanto league along with images, it has search mode and the requested data is displayed on another screen. The main screen has two sliders that display the pictures automatically and manually</p>
 
 <h1 id="demo">Demo</h1>
 <p align="center"> <div align="center">
