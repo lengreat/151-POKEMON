@@ -14,7 +14,7 @@
 </p>
 
 <h1 id="introduction">Introduction</h1><p align="justify">
-This application allows to visualize information of the 151 pokemons of kanto league along with images, it has search mode and the requested data is displayed on another screen. The main screen has two sliders that display the pictures automatically and manually also the backend data is taken from https://pokeapi.co/docs/v2</p>
+This application allows to visualize information of the 151 pokemons of kanto league along with images, it has search mode and the requested data is displayed on another screen. The main screen has two sliders that display the pictures automatically and manually also the backend data in spanish is taken from https://pokeapi.co/docs/v2</p>
 
 <h1 id="demo">Demo</h1>
 <p align="center"> <div align="center">
@@ -31,8 +31,10 @@ This application allows to visualize information of the 151 pokemons of kanto le
 <h1 id="setup">Setup</h1>
 
 
-Step by Step, before download and install:  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-green.svg?&style=flat&logo=visual-studio-code&logoColor=white"></a>
-<a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/GIT-blue.svg?&style=flat&logo=git&logoColor=white"></a>
+Step by Step, before download and install:  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-red.svg?&style=flat&logo=visual-studio-code&logoColor=white"></a>
+<a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/GIT-yellow.svg?&style=flat&logo=git&logoColor=white"></a>
+<a href="https://docs.flutter.dev/get-started/install"><img src="https://img.shields.io/badge/flutter-blue.svg?&style=flat&logo=flutter&logoColor=white"></a>
+<a href="https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLsu1rGMgTkb5t3VebdNwGqA27998JVspHFEpfKoZm-fPBh4odOBZGgaAjnXEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android Studio-gray.svg?&style=flat&logo=android-studio&logoColor=white"></a>
   
   This setup allow run anyone Java program in VSCode
 
