@@ -14,7 +14,7 @@
 </p>
 
 <h1 id="introduction">Introduction</h1><p align="justify">
-This application allows to visualize information of the 151 pokemons of kanto league along with images, it has search mode and the requested data is displayed on another screen. The main screen has two sliders that display the pictures automatically and manually</p>
+This application allows to visualize information of the 151 pokemons of kanto league along with images, it has search mode and the requested data is displayed on another screen. The main screen has two sliders that display the pictures automatically and manually also the backend data is taken from https://pokeapi.co/docs/v2</p>
 
 <h1 id="demo">Demo</h1>
 <p align="center"> <div align="center">
