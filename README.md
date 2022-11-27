@@ -1,6 +1,7 @@
+@lengreat
 <h1 id="title" align="center">151-POKEMON</h1>
 
-<h3 align="center"> :iphone: Android app that shows a pokemon list from pokeAPI :iphone:</h3>
+<h3 align="center"> :iphone: Android app that shows a pokemon list from PokeAPI :iphone:</h3>
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/fixed-bugs.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
@@ -36,7 +37,15 @@ Step by Step, before download and install:  <a href="https://code.visualstudio.c
 <a href="https://docs.flutter.dev/get-started/install"><img src="https://img.shields.io/badge/flutter-blue.svg?&style=flat&logo=flutter&logoColor=white"></a>
 <a href="https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLsu1rGMgTkb5t3VebdNwGqA27998JVspHFEpfKoZm-fPBh4odOBZGgaAjnXEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android Studio-gray.svg?&style=flat&logo=android-studio&logoColor=white"></a>
   
-  This setup allow run anyone Java program in VSCode
+**Installation Android Studio**
+* You need install Android Studio to use the android emulator with Visual Studio
+
+**Installation Flutter**
+* You need install Android Studio to use the android emulator with Visual Studio
+
+
+
+This setup allow run anyone Dart code in VSCode
 
 
 * Extension for Visual Studio Code <<a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack">Extension Pack for Java</a>>
