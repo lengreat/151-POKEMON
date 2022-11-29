@@ -39,28 +39,32 @@ Step by Step, before download and install:  <a href="https://code.visualstudio.c
   
 **Installation Android Studio**
 * You need install Android Studio to use the android emulator with Visual Studio
-* Nos dirijimos al AVD manager y creamos nuevo dispositivo virtual
-* Instalamos en Android SDK, SDK Tools, Android SDK Command-Line Tools
+* Go to the "*AVD manager*" in Android Studio to create a new virtual device
+* Install command line tools:
+```ruby
+# "Android SDK" => "SDK Tools" +> "Android SDK Command Line Tools"
+```
 
 **Installation Flutter**
-* Colocar downloaded carpeta "flutter" en directorio principal c
+* Place downloaded folder "*flutter*" in main root *"C:\"*
 * Configure and edit environment variables to use flutter
 ```ruby
 # Add in "Path" => "C:\flutter\bin"
 ```
-* corroborar intalacion de flutter en cmd y realizar diagnostico para empezar a usarlo
+* Corroborate flutter installation in the cmd and do a diagnostic  to commence to use it
 ```ruby
 $ flutter --version
 $ flutter doctor
+```
+* Install flutter licenses, write "*y*" to accept
+```ruby
 $ flutter doctor --android-licenses
 ```
 
+**This setup allow run anyone Dart code in VSCode**
 
 
-This setup allow run anyone Dart code in VSCode
-
-
-* Extension for Visual Studio Code <<a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack">Extension Pack for Java</a>>
+* Extension for Visual Studio Code <<a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter">Flutter</a>>, <<a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code">Dart</a>>
 * Configure and edit environment variables to use Git
 ```ruby
 # Add in "Path" => "C:\Program Files\Git\cmd"
@@ -72,10 +76,11 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 ```
 * Steps in VSCode
 ```ruby
-# "Shift + Ctrl + P" => "java: Install New JDK" to download Adoptium's Temurin Version 8 (LTS)
-# "Shift + Ctrl + P" => "java: Configure Java Runtime" to choose Java Version 8
+# "Shift + Ctrl + P" => "flutter: Select device" => then choose the emulator created
 # Option "Run" => Start Debugging or key F5
 ```
+
+**RUN**
 
 
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
