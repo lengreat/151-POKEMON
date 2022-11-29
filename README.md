@@ -56,10 +56,16 @@ Step by Step, before download and install:  <a href="https://code.visualstudio.c
 $ flutter --version
 $ flutter doctor
 ```
+<hr>
+<p align="center">
+  <img width="90%" src="https://user-images.githubusercontent.com/99779642/204429003-04b7e7bd-c28e-4cea-84b9-5fddec33a28a.png">  
+</p>
+
 * Install flutter licenses, write "*y*" to accept
 ```ruby
 $ flutter doctor --android-licenses
 ```
+
 
 **This setup allow run anyone Dart code in VSCode**
 
@@ -85,4 +91,4 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/dart.png" alt="flutter" width="85" height="80"/> </a>
