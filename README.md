@@ -39,9 +39,21 @@ Step by Step, before download and install:  <a href="https://code.visualstudio.c
   
 **Installation Android Studio**
 * You need install Android Studio to use the android emulator with Visual Studio
+* Nos dirijimos al AVD manager y creamos nuevo dispositivo virtual
+* Instalamos en Android SDK, SDK Tools, Android SDK Command-Line Tools
 
 **Installation Flutter**
-* You need install Android Studio to use the android emulator with Visual Studio
+* Colocar downloaded carpeta "flutter" en directorio principal c
+* Configure and edit environment variables to use flutter
+```ruby
+# Add in "Path" => "C:\flutter\bin"
+```
+* corroborar intalacion de flutter en cmd y realizar diagnostico para empezar a usarlo
+```ruby
+$ flutter --version
+$ flutter doctor
+$ flutter doctor --android-licenses
+```
 
 
 
