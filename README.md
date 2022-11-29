@@ -97,5 +97,5 @@ $ git clone https://github.com/lengreat/151-POKEMON.git
 <br>
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img alt="imagen" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/dart.png" alt="flutter" width="90" height="90"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img alt="imagen" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="flutter" width="80" height="80"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/dart.png" title="dart" width="90" height="90"/> </a>
 
