@@ -56,7 +56,7 @@ Step by Step, before download and install:  <a href="https://code.visualstudio.c
 $ flutter --version
 $ flutter doctor
 ```
-<hr>
+<br>
 <p align="center">
   <img width="90%" src="https://user-images.githubusercontent.com/99779642/204429003-04b7e7bd-c28e-4cea-84b9-5fddec33a28a.png">  
 </p>
@@ -78,7 +78,7 @@ $ flutter doctor --android-licenses
 * Download or clone this repository
 ```ruby
 # Clone this repository
-$ git clone https://github.com/lengreat/PIC-FLASH.git
+$ git clone https://github.com/lengreat/151-POKEMON.git
 ```
 * Steps in VSCode
 ```ruby
@@ -88,7 +88,14 @@ $ git clone https://github.com/lengreat/PIC-FLASH.git
 
 **RUN**
 
+<br>
+<p align="center">
+  <img width="90%" src="https://user-images.githubusercontent.com/99779642/204433999-dec27df6-e580-4f9a-9e0e-8807a0dfeec4.gif">  
+</p>
 
+
+<br>
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/dart.png" alt="flutter" width="85" height="80"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img alt="imagen" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/dart.png" alt="flutter" width="90" height="90"/> </a>
+
